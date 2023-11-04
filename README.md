@@ -1,2 +1,6 @@
-# ruby-exercises
-# ruby-exercises
+# Ruby Exercises
+
+Different Ruby exercises, challenges, and problems
+
+
+-jasonmag-
